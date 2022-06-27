@@ -1051,6 +1051,11 @@
 "@modules/payments@file:./modules/payments":
   version "1.0.1"
 
+"@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
   dependencies:
@@ -1269,7 +1274,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/privacy-policy@file:./screens/privacy-policy/":
+"@screens/privacy-policy@file:./screens/privacy-policy":
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
