@@ -1269,6 +1269,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/privacy-policy@file:./screens/privacy-policy/":
+  version "1.0.0"
+
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
   version "1.0.0"
 
